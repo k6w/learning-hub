@@ -1,234 +1,234 @@
 {
   "activeRecall": {
-    "title": "Rememorare Activă (Practica Recuperării)",
+    "title": "Active Recall (Retrieval Practice)",
     "principle": {
-      "title": "Principiu",
-      "description": "În loc să recitești sau să subliniezi, rememorarea activă te forțează să scoți informația din creier fără să te uiți în notițe. Efortul întărește urmele memoriei și face ca reamintirea viitoare să fie mai ușoară. De aceea testarea de sine este mult superioară revizuirii pasive."
+      "title": "Principle",
+      "description": "Instead of re-reading or highlighting, active recall forces you to pull information out of your brain without looking at your notes. The effort strengthens the memory trace and makes future recall easier. This is why testing yourself is far superior to passive review."
     },
     "howToApply": {
-      "title": "Cum să o aplici",
+      "title": "How to Apply It",
       "items": [
-        "<strong>Carduri de tip flash:</strong> Fă carduri Întrebare & Răspuns (digitale sau pe hârtie). Nu doar întoarce cardul — spune sau scrie răspunsul mai întâi.",
-        "<strong>Blurting:</strong> Închide cartea, scrie tot ce îți amintești pe o pagină goală, apoi verifică ce ai omis.",
-        "<strong>Teste de practică:</strong> Folosește subiecte vechi, chestionare online sau creează-ți propriul test.",
-        "<strong>Predă altcuiva:</strong> Explică subiectul unui prieten, unui animal de companie sau chiar unei jucării de pluș. Dacă îl poți preda, îl înțelegi."
+        "<strong>Flashcards:</strong> Make Q&A cards (digital or paper). Don’t just flip — say or write the answer first.",
+        "<strong>Blurting:</strong> Close your book, write everything you can remember on a blank page, then check what you missed.",
+        "<strong>Practice Tests:</strong> Use past papers, online quizzes, or create your own mock exam.",
+        "<strong>Teach It:</strong> Explain the topic to a friend, a pet, or even a stuffed animal. If you can teach it, you understand it."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "În loc să recitești un capitol de biologie, încerci să notezi pașii fotosintezei din memorie. Apoi compari răspunsul cu manualul și completezi detaliile lipsă. De fiecare dată, reamintirea devine mai puternică."
+      "title": "Example Scenario",
+      "description": "Instead of re-reading a biology chapter, you try to write down the steps of photosynthesis from memory. You then compare your answer with the textbook and fill in missing details. Each time, the recall gets stronger."
     },
     "bestPairedWith": {
-      "title": "Cel mai eficient împreună cu",
-      "description": "Rememorarea activă este cea mai eficientă împreună cu <strong>Repetiția Distribuită</strong>. Folosește carduri de tip flash cu intervale distanțate pentru a te asigura că repeți chiar înainte să uiți."
+      "title": "Best Paired With",
+      "description": "Active Recall is most effective with <strong>Spaced Repetition</strong>. Use flashcards with spaced intervals to make sure you review right before forgetting."
     },
     "commonPitfalls": {
-      "title": "Capcane Comune",
-      "description": "Greșeli frecvente: <ul><li><strong>Recunoaștere vs Reamintire:</strong> Nu te mulțumi să recunoști răspunsul corect — produce-l din memorie.</li><li><strong>Suprautilizarea recitirii:</strong> Se simte bine, dar este înșelătoare.</li><li><strong>Renunțarea prea devreme:</strong> Dificultatea înseamnă că creierul tău învață. Continuă.</li></ul>"
+      "title": "Common Pitfalls",
+      "description": "Mistakes include: <ul><li><strong>Recognition vs Recall:</strong> Don’t just recognize the right answer — produce it from memory.</li><li><strong>Over-relying on rereading:</strong> It feels good but is deceptive.</li><li><strong>Quitting too early:</strong> Struggle means your brain is learning. Stick with it.</li></ul>"
     },
     "tips": {
-      "title": "Sfaturi Practice",
+      "title": "Pro Tips",
       "items": [
-        "Folosește <strong>blurting</strong> înainte să-ți revezi notițele.",
-        "Înregistrează-te explicând un subiect, apoi ascultă înapoi.",
-        "Alătură-te grupurilor de studiu pentru a vă testa reciproc."
+        "Use <strong>blurting</strong> before reviewing notes.",
+        "Record yourself explaining a topic, then listen back.",
+        "Join study groups to quiz each other."
       ]
     },
     "evidence": {
-      "title": "Dovezi Științifice",
-      "description": "Roediger & Karpicke (2006) au arătat că practica recuperării a îmbunătățit reamintirea pe termen lung cu 50% comparativ cu recitirea. Studenții care s-au testat singuri și-au amintit mai mult chiar și după o săptămână."
+      "title": "Scientific Evidence",
+      "description": "Roediger & Karpicke (2006) showed retrieval practice improved long-term recall by 50% compared to rereading. Students who tested themselves remembered more even a week later."
     },
     "tools": ["Anki", "RemNote", "Quizlet", "Brainscape"]
   },
   "spacedRepetition": {
-    "title": "Repetiția Distribuită",
+    "title": "Spaced Repetition",
     "principle": {
-      "title": "Principiu",
-      "description": "Revederea materialului la intervale tot mai mari întărește memoria și previne uitarea. Acest lucru se numește efectul de spațiere. Repetiția distribuită te asigură că nu pierzi timp revizuind ceea ce deja știi, ci te concentrezi pe ce ești pe cale să uiți."
+      "title": "Principle",
+      "description": "Reviewing material at increasing intervals strengthens memory and keeps it from fading. This is called the spacing effect. Spaced repetition ensures you don’t waste time reviewing what you already know, and instead focus on what you’re about to forget."
     },
     "howToApply": {
-      "title": "Cum să o aplici",
+      "title": "How to Apply It",
       "items": [
-        "<strong>Folosește aplicații SRS:</strong> Anki, SuperMemo și Quizlet programează automat repetițiile în funcție de cât de bine ții minte.",
-        "<strong>Sistemul Leitner manual:</strong> Sortează cardurile în cutii — cardurile ușoare sunt revizuite mai rar, cele grele mai des.",
-        "<strong>Calendar DIY:</strong> Setează remindere (Ziua 1, Ziua 3, Ziua 7, Ziua 14, Ziua 30)."
+        "<strong>Use SRS Apps:</strong> Anki, SuperMemo, and Quizlet automatically schedule reviews based on your memory strength.",
+        "<strong>Manual Leitner System:</strong> Sort flashcards into boxes — easy cards get reviewed less, hard cards more.",
+        "<strong>DIY Calendar:</strong> Set reminders (Day 1, Day 3, Day 7, Day 14, Day 30)."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "Învățând vocabular spaniol, repeți 'gato' (pisică) în Ziua 1, Ziua 3, Ziua 7 și Ziua 14. De fiecare dată rămâne mai bine fixat până când abia mai trebuie să te gândești."
+      "title": "Example Scenario",
+      "description": "Learning Spanish vocabulary, you review 'gato' (cat) on Day 1, Day 3, Day 7, and Day 14. Each time it sticks better until you barely need to think about it."
     },
     "tips": {
-      "title": "Sfaturi Practice",
+      "title": "Pro Tips",
       "items": [
-        "Nu adăuga prea multe carduri odată — te vei copleși.",
-        "Etichetează și organizează cardurile pe materii/teme.",
-        "Folosește imagini și mnemonice pe carduri pentru a spori reamintirea."
+        "Don’t add too many cards at once — you’ll get overwhelmed.",
+        "Tag and organize cards by subject/topic.",
+        "Use images and mnemonics on flashcards to boost recall."
       ]
     },
     "commonPitfalls": {
-      "title": "Capcane Comune",
-      "description": "Săritul peste repetiții strică efectul de spațiere. Nu îngrămădi toate cardurile într-o singură sesiune — consistența este cheia."
+      "title": "Common Pitfalls",
+      "description": "Skipping reviews ruins the spacing effect. Don’t cram all cards in one session — consistency is key."
     },
     "evidence": {
-      "title": "Dovezi Științifice",
-      "description": "Efectul de spațiere este una dintre cele mai robuste descoperiri din psihologie. Meta-analiza lui Cepeda et al. (2006) a arătat că studiul distribuit produce o învățare mai puternică și de durată decât studiul masiv (învățarea prin „cram”)."
+      "title": "Scientific Evidence",
+      "description": "The spacing effect is one of the most robust findings in psychology. Cepeda et al. (2006) meta-analysis found spaced study produced stronger, longer-lasting learning than massed study (cramming)."
     }
   },
   "interleaving": {
-    "title": "Intercalarea",
+    "title": "Interleaving",
     "principle": {
-      "title": "Principiu",
-      "description": "Amestecarea subiectelor sau a tipurilor de probleme îți forțează creierul să recunoască strategia corectă, nu doar să repete aceiași pași. Acest lucru construiește cunoștințe flexibile și capacitate de rezolvare a problemelor."
+      "title": "Principle",
+      "description": "Mixing topics or problem types forces your brain to recognize the right strategy instead of just repeating the same steps. This builds flexible knowledge and problem-solving ability."
     },
     "howToApply": {
-      "title": "Cum să o aplici",
+      "title": "How to Apply It",
       "items": [
-        "<strong>Practică la matematică:</strong> Amestecă probleme de algebră, geometrie și calcul în loc să rezolvi un singur tip.",
-        "<strong>Limbi străine:</strong> Alternează între vocabular, gramatică și exerciții de ascultare.",
-        "<strong>Muzică:</strong> Alternează între game, acorduri și cântece într-o singură sesiune."
+        "<strong>Math Practice:</strong> Mix algebra, geometry, and calculus problems instead of batching one type.",
+        "<strong>Languages:</strong> Alternate between vocab, grammar, and listening practice.",
+        "<strong>Music:</strong> Rotate between scales, chords, and songs in one session."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "Un student la chimie studiază acizi, baze și reacții organice într-un singur set de exerciții în loc să facă 50 de probleme doar cu acizi."
+      "title": "Example Scenario",
+      "description": "A chemistry student studies acids, bases, and organic reactions in one practice set instead of doing 50 acid problems in a row."
     },
     "tips": {
-      "title": "Sfaturi Practice",
+      "title": "Pro Tips",
       "items": [
-        "Pare mai greu decât în blocuri — și asta e bine! Dificultate = învățare.",
-        "Amestecă 2–3 subiecte înrudite, nu te suprasolicita cu prea multe."
+        "Feels harder than blocking — that’s good! Difficulty = learning.",
+        "Mix 2–3 related topics, don’t overwhelm yourself with too many."
       ]
     },
     "evidence": {
-      "title": "Dovezi Științifice",
-      "description": "Rohrer & Taylor (2007) au descoperit că studenții care au practicat probleme intercalate de matematică au avut scoruri aproape duble față de cei care au studiat în blocuri."
+      "title": "Scientific Evidence",
+      "description": "Rohrer & Taylor (2007) found students who practiced interleaved math problems scored nearly double compared to those who studied in blocks."
     }
   },
   "elaboration": {
-    "title": "Elaborare (Interogare Elaborativă)",
+    "title": "Elaboration (Elaborative Interrogation)",
     "principle": {
-      "title": "Principiu",
-      "description": "Elaborarea presupune conectarea noilor informații la cunoștințe deja existente într-un mod semnificativ. În loc să memorezi fapte izolate, procesezi activ informația întrebându-te „cum” și „de ce” și raportând-o la experiențele proprii. Acest lucru creează o rețea mai bogată și interconectată de cunoștințe, făcând informația mai ușor de reținut și aplicat."
+      "title": "Principle",
+      "description": "Elaboration involves connecting new information to pre-existing knowledge in a meaningful way. Instead of just memorizing isolated facts, you actively process the information by asking 'how' and 'why' questions and relating it to your own experiences. This builds a richer, more interconnected web of knowledge, making the information easier to remember and apply."
     },
     "howToApply": {
-      "title": "Cum să o aplici",
+      "title": "How to Apply It",
       "items": [
-        "<strong>Întreabă „Cum” și „De ce”:</strong> Pe măsură ce înveți, întreabă-te constant: Cum funcționează? De ce este adevărat? De ce este important?",
-        "<strong>Conectează la viața ta:</strong> Raportează conceptul la experiențele tale personale sau la lucruri pe care le cunoști bine.",
-        "<strong>Folosește analogii:</strong> Creează o metaforă sau analogie pentru concept. De exemplu, „Mitocondria celulei este ca o centrală electrică pentru oraș.”",
-        "<strong>Auto-explicație:</strong> Oprește-te și explică-ți conceptul în propriile cuvinte, ca și cum l-ai preda."
+        "<strong>Ask 'How' and 'Why':</strong> As you learn, constantly ask yourself: How does this work? Why is this true? Why is this important?",
+        "<strong>Connect to Your Life:</strong> Relate the concept to your personal experiences or to things you already know well.",
+        "<strong>Use Analogies:</strong> Create a metaphor or analogy for the concept. For example, \"A cell's mitochondria is like a power plant for the city.\"",
+        "<strong>Self-Explanation:</strong> Pause and explain the concept to yourself in your own words, as if you were teaching it."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "În timp ce învață despre principiul economic al cererii și ofertei, un student poate elabora gândindu-se la o situație recentă, cum ar fi prețul ridicat al unei console de jocuri la lansare (cerere mare, ofertă mică), care apoi a scăzut după un an (cerere mai mică, ofertă mai mare)."
+      "title": "Example Scenario",
+      "description": "While learning about the economic principle of supply and demand, a student could elaborate by thinking about a recent time they saw this in action, like the price of a popular video game console being very high when it was first released (high demand, low supply) and then dropping a year later (lower demand, higher supply)."
     },
     "evidence": {
-      "title": "Dovezi Științifice",
-      "description": "Cercetările privind nivelurile de procesare (Craik & Lockhart, 1972) arată că informațiile procesate mai profund (adică prin luarea în considerare a sensului și conexiunilor) sunt reținute mult mai bine decât cele procesate superficial (doar prin analizarea caracteristicilor de suprafață)."
+      "title": "Scientific Evidence",
+      "description": "Research on levels of processing (Craik & Lockhart, 1972) shows that information that is processed more deeply (i.e., by considering its meaning and connections) is remembered far better than information that is processed shallowly (i.e., by just looking at its surface features)."
     }
   },
   "dualCoding": {
-    "title": "Codificare Duală",
+    "title": "Dual Coding",
     "principle": {
-      "title": "Principiu",
-      "description": "Conform teoriei codificării duale a lui Allan Paivio, creierul procesează informația prin două canale separate, dar interconectate: un canal verbal (pentru limbaj) și un canal vizual (pentru imagini). Învățăm și reținem mai eficient când informația este prezentată în ambele formate simultan, deoarece se creează două trasee distincte ale memoriei, întărind amintirea."
+      "title": "Principle",
+      "description": "According to Allan Paivio's dual-coding theory, the brain processes information through two separate but interconnected channels: a verbal channel (for language) and a visual channel (for images). We learn and retain information more effectively when it is presented in both formats simultaneously, as this creates two distinct memory pathways, strengthening the memory trace."
     },
     "howToApply": {
-      "title": "Cum să o aplici",
+      "title": "How to Apply It",
       "items": [
-        "<strong>Creează diagrame:</strong> Desenează o diagramă, o schemă sau o hartă mentală pentru a reprezenta vizual informația dintr-un text.",
-        "<strong>Caută infografice:</strong> Găsește rezumate vizuale ale subiectelor complexe.",
-        "<strong>Desenează în timp ce înveți:</strong> Fă schițe sau pictograme simple în notițe lângă conceptele importante.",
-        "<strong>Folosește video:</strong> Urmărește videoclipuri educaționale care combină narațiunea cu vizualuri relevante."
+        "<strong>Create Diagrams:</strong> Draw a diagram, flowchart, or mind map to visually represent the information from a text.",
+        "<strong>Find Infographics:</strong> Look for visual summaries of complex topics.",
+        "<strong>Draw as You Learn:</strong> Make simple sketches or icons in your notes next to key concepts.",
+        "<strong>Use Video:</strong> Watch educational videos that combine narration with relevant visuals to explain a topic."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "Când studiază sistemul circulator uman, un student nu doar citește descrierile inimii, arterelor și venelor, ci și studiază și redesenează o diagramă detaliată a fluxului sanguin. Combinația text (verbal) + diagramă (vizual) îmbunătățește înțelegerea și reținerea."
+      "title": "Example Scenario",
+      "description": "When studying the human circulatory system, a student would not only read the descriptions of the heart, arteries, and veins but also study and redraw a detailed diagram of blood flow. The combination of the text (verbal) and the diagram (visual) enhances their understanding and recall."
     },
     "evidence": {
-      "title": "Dovezi Științifice",
-      "description": "Numeroase studii susțin teoria codificării duale. De exemplu, cercetările lui Mayer și Anderson au arătat că studenții care au învățat cu animații + narațiune au avut rezultate semnificativ mai bune decât cei care au avut doar narațiune sau doar animație."
+      "title": "Scientific Evidence",
+      "description": "Numerous studies support the dual-coding theory. For example, research by Mayer and Anderson showed that students who learned from an animation with narration performed significantly better on problem-solving tests than students who received only narration or only animation."
     }
   },
   "feynmanTechnique": {
-    "title": "Tehnica Feynman",
+    "title": "The Feynman Technique",
     "principle": {
-      "title": "Principiu",
-      "description": "Numită după laureatul Nobel Richard Feynman, această tehnică este un model mental puternic pentru învățare. Ideea de bază este că, pentru a înțelege cu adevărat un concept, trebuie să-l poți explica în limbaj simplu și clar. Procesul de simplificare dezvăluie limitele cunoștințelor tale și scoate la iveală neînțelegerile."
+      "title": "Principle",
+      "description": "Named after Nobel laureate physicist Richard Feynman, this technique is a powerful mental model for learning. Its core idea is that to truly understand a concept, you must be able to explain it in simple, plain language. The process of simplification reveals the boundaries of your knowledge and exposes any misunderstandings."
     },
     "steps": {
-      "title": "Cei Patru Pași",
+      "title": "The Four Steps",
       "step1": {
-        "title": "Alege un concept",
-        "description": "Alege un subiect pe care vrei să-l înveți și începe să-l studiezi. Citește materialul sursă și ia notițe."
+        "title": "Choose a Concept",
+        "description": "Pick a topic you want to learn and start studying it. Read the source material and take notes."
       },
       "step2": {
-        "title": "Predă-l unui copil",
-        "description": "Scrie o explicație a conceptului pe o foaie albă ca și cum l-ai preda cuiva fără cunoștințe anterioare, precum unui copil. Folosește un limbaj simplu și evită jargonul."
+        "title": "Teach it to a Child",
+        "description": "Write down an explanation of the concept on a blank piece of paper as if you were teaching it to someone with no prior knowledge, like a child. Use simple language and avoid jargon."
       },
       "step3": {
-        "title": "Identifică lacunele",
-        "description": "Ori de câte ori te blochezi, folosești termeni complicați sau simți că explicația este șubredă, ai descoperit o lacună în înțelegere. Întoarce-te la materialul sursă pentru a-ți întări cunoștințele."
+        "title": "Identify Knowledge Gaps",
+        "description": "Whenever you get stuck, use complex terms, or feel your explanation is shaky, you've found a gap in your understanding. Go back to the source material to strengthen your knowledge."
       },
       "step4": {
-        "title": "Revizuiește și simplifică",
-        "description": "Rafinează explicația. Citește-o cu voce tare. Dacă nu este clară sau sună confuz, reia. Folosește analogii și creează o narațiune cursivă până când înțelegerea ta este solidă."
+        "title": "Review and Simplify",
+        "description": "Refine your explanation. Read it out loud. If it's not simple or sounds confusing, try again. Use analogies and create a smooth narrative until your understanding is solid."
       }
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "Un student care încearcă să înțeleagă tehnologia blockchain ar scrie o explicație evitând jargonul tehnic precum „hash criptografic” sau „registru distribuit”. Ar putea în schimb să folosească analogia unui caiet public, partajat, pe care toată lumea îl poate vedea, dar nimeni nu-l poate șterge, fiecare intrare fiind legată de cea anterioară, pentru a explica conceptul simplu."
+      "title": "Example Scenario",
+      "description": "A student trying to understand blockchain technology would write an explanation that avoids technical jargon like \"cryptographic hash\" and \"distributed ledger.\" They might instead use an analogy of a shared, public notebook that anyone can see but no one can erase, with each new entry linked to the previous one, to explain the core concept simply."
     }
   },
   "pomodoroTechnique": {
-    "title": "Tehnica Pomodoro",
+    "title": "The Pomodoro Technique",
     "principle": {
-      "title": "Principiu",
-      "description": "Dezvoltată de Francesco Cirillo, tehnica Pomodoro este o metodă de gestionare a timpului care folosește un cronometru pentru a împărți munca în intervale, de obicei de 25 de minute, separate de pauze scurte. Scopul este de a crea concentrare, de a reduce oboseala mentală și de a minimiza distragerile."
+      "title": "Principle",
+      "description": "Developed by Francesco Cirillo, the Pomodoro Technique is a time management method that uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. The goal is to create focus, reduce mental fatigue, and minimize distractions."
     },
     "steps": {
-      "title": "Cei Cinci Pași",
+      "title": "The Five Steps",
       "items": [
-        "<strong>Alege o sarcină</strong> pe care vrei să o faci.",
-        "<strong>Setează un cronometru pentru 25 de minute.</strong> Acesta este un „Pomodoro”.",
-        "<strong>Lucrează la sarcină</strong> cu concentrare deplină până când sună cronometrul.",
-        "<strong>Fă o pauză scurtă</strong> (5 minute). Fă ceva relaxant departe de muncă.",
-        "După patru Pomodoro, <strong>fă o pauză mai lungă</strong> (15–30 minute)."
+        "<strong>Choose a task</strong> you want to work on.",
+        "<strong>Set a timer for 25 minutes.</strong> This is one \"Pomodoro\".",
+        "<strong>Work on the task</strong> with undivided focus until the timer rings.",
+        "<strong>Take a short break</strong> (5 minutes). Do something relaxing away from your work.",
+        "After four Pomodoros, <strong>take a longer break</strong> (15-30 minutes)."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "Un student trebuie să scrie o lucrare de cercetare. Împarte sarcina mare în pași mai mici: „Găsește 5 surse.” Setează un cronometru de 25 de minute și se concentrează doar pe acea sarcină. Când sună cronometrul, ia o pauză de 5 minute pentru a se întinde și a bea apă. Repetă procesul, simțindu-se productiv și evitând epuizarea."
+      "title": "Example Scenario",
+      "description": "A student needs to write a research paper. They break the large task into smaller steps: \"Find 5 sources.\" They set a 25-minute timer and focus solely on that task. When the timer rings, they take a 5-minute break to stretch and get water. They repeat this process, feeling productive and avoiding burnout."
     },
     "whyItWorks": {
-      "title": "De ce funcționează",
-      "description": "Tehnica combate procrastinarea făcând mai ușor să începi o sarcină mică și cronometrată. De asemenea, îți antrenează creierul să se concentreze pentru perioade susținute și te face mai conștient de modul în care îți folosești timpul. Pauzele forțate sunt esențiale pentru menținerea energiei mentale în sesiuni lungi de studiu."
+      "title": "Why It Works",
+      "description": "The technique combats procrastination by making it easy to start on a small, timed task. It also trains your brain to focus for sustained periods and helps you become more aware of where your time goes. The forced breaks are critical for maintaining mental energy over long study sessions."
     }
   },
   "cornellMethod": {
-    "title": "Metoda Cornell",
+    "title": "The Cornell Method",
     "principle": {
-      "title": "Principiu",
-      "description": "Metoda Cornell este un sistem de luare de notițe conceput pentru învățare activă și revizuire ușoară. Împarte pagina într-un mod specific, fiecare secțiune având un scop precis, încurajându-te să interacționezi cu materialul în timpul și după curs sau lectură."
+      "title": "Principle",
+      "description": "The Cornell Method is a note-taking system designed for active learning and easy review. It divides a single page into distinct sections, each with a specific purpose, encouraging you to engage with the material during and after the lecture or reading."
     },
     "pageStructure": {
-      "title": "Cum să structurezi pagina",
+      "title": "How to Structure Your Page",
       "items": [
-        "<strong>Zonă Principală de Notițe (Dreapta):</strong> În timpul cursului sau citirii, ia notițele în această secțiune cea mai mare. Nu te preocupa de perfecțiune; notează ideile principale, exemplele și formulele.",
-        "<strong>Coloana de Indicii/Întrebări (Stânga):</strong> La scurt timp după sesiune, revizuiește notițele principale și extrage termeni-cheie, concepte sau potențiale întrebări de test. Scrie-le în coloana îngustă din stânga, aliniate cu notițele relevante.",
-        "<strong>Secțiunea Rezumat (Jos):</strong> La finalul sesiunii de notițe, scrie un rezumat de una-două propoziții al conținutului întregii pagini. Aceasta te forțează să procesezi și să sintetizezi informația."
+        "<strong>Main Notes Area (Right):</strong> During the lecture or while reading, take your notes in this largest section. Don't worry about being perfect; capture key ideas, examples, and formulas.",
+        "<strong>Cues/Questions Column (Left):</strong> Shortly after the session, review your main notes and pull out key terms, concepts, or potential test questions. Write these in the narrow left-hand column, aligned with the relevant notes.",
+        "<strong>Summary Section (Bottom):</strong> At the end of your note-taking session, write a one or two-sentence summary of the entire page's content in the bottom section. This forces you to process and synthesize the information."
       ]
     },
     "example": {
-      "title": "Scenariu Exemplu",
-      "description": "Într-o oră de biologie despre mitoză, notițele principale ale studentului ar detalia fazele (Profază, Metafază etc.). Mai târziu, în coloana de Indicii, ar scrie întrebări precum „Ce se întâmplă în anafază?” sau termeni-cheie precum „Centromer”. Pentru a repeta, poate acoperi notițele principale și încerca să răspundă la întrebările din coloana de Indicii, practicând astfel rememorarea activă."
+      "title": "Example Scenario",
+      "description": "In a biology class about mitosis, a student's main notes would detail the phases (Prophase, Metaphase, etc.). Later, in the Cues column, they would write questions like \"What happens in anaphase?\" or key terms like \"Centromere.\" To review, they can cover the main notes and try to answer the questions in the Cues column, effectively practicing active recall."
     },
     "whyItWorks": {
-      "title": "De ce funcționează",
-      "description": "Această metodă integrează învățarea activă direct în procesul de luare de notițe. Coloana de Indicii creează carduri de tip flash integrate pentru auto-testare (Rememorare Activă), iar Secțiunea de Rezumat te obligă să procesezi materialul la un nivel mai profund (Elaborare)."
+      "title": "Why It Works",
+      "description": "This method builds active learning directly into your note-taking process. The Cues column creates built-in flashcards for easy self-testing (Active Recall), and the Summary section forces you to process the material at a deeper level (Elaboration)."
     }
   }
 }
