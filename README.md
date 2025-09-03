@@ -32,8 +32,8 @@ An interactive web application designed to help users explore and understand var
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/basic-learn.git
-cd basic-learn/frontend/nextjs
+git clone https://github.com/k6w/learning-hub.git
+cd learning-hub
 ```
 
 2. Install dependencies:
