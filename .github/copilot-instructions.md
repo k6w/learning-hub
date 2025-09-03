@@ -7,13 +7,11 @@
 - [x] Scaffold the Project
 	<!-- Next.js project scaffolded with TypeScript, Tailwind CSS, ESLint, App Router, and src directory -->
 
-- [ ] Customize the Project
-	<!--
-	Verify that all previous steps have been completed successfully and you have marked the step as completed.
-	Develop a plan to modify codebase according to user requirements.
-	Apply modifications using appropriate tools and user-provided references.
-	Skip this step for "Hello World" projects.
-	-->
+- [x] Customize the Project
+	<!-- Created learning website with navigation, charts, quiz component, and all learning technique content that matches the original HTML exactly -->
+
+- [ ] Install Required Extensions
+	<!-- No extensions needed for this Next.js project -->
 
 - [ ] Install Required Extensions
 	<!-- ONLY install extensions provided mentioned in the get_project_setup_info. Skip this step otherwise and mark as completed. -->

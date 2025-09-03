@@ -1,0 +1,234 @@
+{
+  "activeRecall": {
+    "title": "Rememorare Activă (Practica Recuperării)",
+    "principle": {
+      "title": "Principiu",
+      "description": "În loc să recitești sau să subliniezi, rememorarea activă te forțează să scoți informația din creier fără să te uiți în notițe. Efortul întărește urmele memoriei și face ca reamintirea viitoare să fie mai ușoară. De aceea testarea de sine este mult superioară revizuirii pasive."
+    },
+    "howToApply": {
+      "title": "Cum să o aplici",
+      "items": [
+        "<strong>Carduri de tip flash:</strong> Fă carduri Întrebare & Răspuns (digitale sau pe hârtie). Nu doar întoarce cardul — spune sau scrie răspunsul mai întâi.",
+        "<strong>Blurting:</strong> Închide cartea, scrie tot ce îți amintești pe o pagină goală, apoi verifică ce ai omis.",
+        "<strong>Teste de practică:</strong> Folosește subiecte vechi, chestionare online sau creează-ți propriul test.",
+        "<strong>Predă altcuiva:</strong> Explică subiectul unui prieten, unui animal de companie sau chiar unei jucării de pluș. Dacă îl poți preda, îl înțelegi."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "În loc să recitești un capitol de biologie, încerci să notezi pașii fotosintezei din memorie. Apoi compari răspunsul cu manualul și completezi detaliile lipsă. De fiecare dată, reamintirea devine mai puternică."
+    },
+    "bestPairedWith": {
+      "title": "Cel mai eficient împreună cu",
+      "description": "Rememorarea activă este cea mai eficientă împreună cu <strong>Repetiția Distribuită</strong>. Folosește carduri de tip flash cu intervale distanțate pentru a te asigura că repeți chiar înainte să uiți."
+    },
+    "commonPitfalls": {
+      "title": "Capcane Comune",
+      "description": "Greșeli frecvente: <ul><li><strong>Recunoaștere vs Reamintire:</strong> Nu te mulțumi să recunoști răspunsul corect — produce-l din memorie.</li><li><strong>Suprautilizarea recitirii:</strong> Se simte bine, dar este înșelătoare.</li><li><strong>Renunțarea prea devreme:</strong> Dificultatea înseamnă că creierul tău învață. Continuă.</li></ul>"
+    },
+    "tips": {
+      "title": "Sfaturi Practice",
+      "items": [
+        "Folosește <strong>blurting</strong> înainte să-ți revezi notițele.",
+        "Înregistrează-te explicând un subiect, apoi ascultă înapoi.",
+        "Alătură-te grupurilor de studiu pentru a vă testa reciproc."
+      ]
+    },
+    "evidence": {
+      "title": "Dovezi Științifice",
+      "description": "Roediger & Karpicke (2006) au arătat că practica recuperării a îmbunătățit reamintirea pe termen lung cu 50% comparativ cu recitirea. Studenții care s-au testat singuri și-au amintit mai mult chiar și după o săptămână."
+    },
+    "tools": ["Anki", "RemNote", "Quizlet", "Brainscape"]
+  },
+  "spacedRepetition": {
+    "title": "Repetiția Distribuită",
+    "principle": {
+      "title": "Principiu",
+      "description": "Revederea materialului la intervale tot mai mari întărește memoria și previne uitarea. Acest lucru se numește efectul de spațiere. Repetiția distribuită te asigură că nu pierzi timp revizuind ceea ce deja știi, ci te concentrezi pe ce ești pe cale să uiți."
+    },
+    "howToApply": {
+      "title": "Cum să o aplici",
+      "items": [
+        "<strong>Folosește aplicații SRS:</strong> Anki, SuperMemo și Quizlet programează automat repetițiile în funcție de cât de bine ții minte.",
+        "<strong>Sistemul Leitner manual:</strong> Sortează cardurile în cutii — cardurile ușoare sunt revizuite mai rar, cele grele mai des.",
+        "<strong>Calendar DIY:</strong> Setează remindere (Ziua 1, Ziua 3, Ziua 7, Ziua 14, Ziua 30)."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "Învățând vocabular spaniol, repeți 'gato' (pisică) în Ziua 1, Ziua 3, Ziua 7 și Ziua 14. De fiecare dată rămâne mai bine fixat până când abia mai trebuie să te gândești."
+    },
+    "tips": {
+      "title": "Sfaturi Practice",
+      "items": [
+        "Nu adăuga prea multe carduri odată — te vei copleși.",
+        "Etichetează și organizează cardurile pe materii/teme.",
+        "Folosește imagini și mnemonice pe carduri pentru a spori reamintirea."
+      ]
+    },
+    "commonPitfalls": {
+      "title": "Capcane Comune",
+      "description": "Săritul peste repetiții strică efectul de spațiere. Nu îngrămădi toate cardurile într-o singură sesiune — consistența este cheia."
+    },
+    "evidence": {
+      "title": "Dovezi Științifice",
+      "description": "Efectul de spațiere este una dintre cele mai robuste descoperiri din psihologie. Meta-analiza lui Cepeda et al. (2006) a arătat că studiul distribuit produce o învățare mai puternică și de durată decât studiul masiv (învățarea prin „cram”)."
+    }
+  },
+  "interleaving": {
+    "title": "Intercalarea",
+    "principle": {
+      "title": "Principiu",
+      "description": "Amestecarea subiectelor sau a tipurilor de probleme îți forțează creierul să recunoască strategia corectă, nu doar să repete aceiași pași. Acest lucru construiește cunoștințe flexibile și capacitate de rezolvare a problemelor."
+    },
+    "howToApply": {
+      "title": "Cum să o aplici",
+      "items": [
+        "<strong>Practică la matematică:</strong> Amestecă probleme de algebră, geometrie și calcul în loc să rezolvi un singur tip.",
+        "<strong>Limbi străine:</strong> Alternează între vocabular, gramatică și exerciții de ascultare.",
+        "<strong>Muzică:</strong> Alternează între game, acorduri și cântece într-o singură sesiune."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "Un student la chimie studiază acizi, baze și reacții organice într-un singur set de exerciții în loc să facă 50 de probleme doar cu acizi."
+    },
+    "tips": {
+      "title": "Sfaturi Practice",
+      "items": [
+        "Pare mai greu decât în blocuri — și asta e bine! Dificultate = învățare.",
+        "Amestecă 2–3 subiecte înrudite, nu te suprasolicita cu prea multe."
+      ]
+    },
+    "evidence": {
+      "title": "Dovezi Științifice",
+      "description": "Rohrer & Taylor (2007) au descoperit că studenții care au practicat probleme intercalate de matematică au avut scoruri aproape duble față de cei care au studiat în blocuri."
+    }
+  },
+  "elaboration": {
+    "title": "Elaborare (Interogare Elaborativă)",
+    "principle": {
+      "title": "Principiu",
+      "description": "Elaborarea presupune conectarea noilor informații la cunoștințe deja existente într-un mod semnificativ. În loc să memorezi fapte izolate, procesezi activ informația întrebându-te „cum” și „de ce” și raportând-o la experiențele proprii. Acest lucru creează o rețea mai bogată și interconectată de cunoștințe, făcând informația mai ușor de reținut și aplicat."
+    },
+    "howToApply": {
+      "title": "Cum să o aplici",
+      "items": [
+        "<strong>Întreabă „Cum” și „De ce”:</strong> Pe măsură ce înveți, întreabă-te constant: Cum funcționează? De ce este adevărat? De ce este important?",
+        "<strong>Conectează la viața ta:</strong> Raportează conceptul la experiențele tale personale sau la lucruri pe care le cunoști bine.",
+        "<strong>Folosește analogii:</strong> Creează o metaforă sau analogie pentru concept. De exemplu, „Mitocondria celulei este ca o centrală electrică pentru oraș.”",
+        "<strong>Auto-explicație:</strong> Oprește-te și explică-ți conceptul în propriile cuvinte, ca și cum l-ai preda."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "În timp ce învață despre principiul economic al cererii și ofertei, un student poate elabora gândindu-se la o situație recentă, cum ar fi prețul ridicat al unei console de jocuri la lansare (cerere mare, ofertă mică), care apoi a scăzut după un an (cerere mai mică, ofertă mai mare)."
+    },
+    "evidence": {
+      "title": "Dovezi Științifice",
+      "description": "Cercetările privind nivelurile de procesare (Craik & Lockhart, 1972) arată că informațiile procesate mai profund (adică prin luarea în considerare a sensului și conexiunilor) sunt reținute mult mai bine decât cele procesate superficial (doar prin analizarea caracteristicilor de suprafață)."
+    }
+  },
+  "dualCoding": {
+    "title": "Codificare Duală",
+    "principle": {
+      "title": "Principiu",
+      "description": "Conform teoriei codificării duale a lui Allan Paivio, creierul procesează informația prin două canale separate, dar interconectate: un canal verbal (pentru limbaj) și un canal vizual (pentru imagini). Învățăm și reținem mai eficient când informația este prezentată în ambele formate simultan, deoarece se creează două trasee distincte ale memoriei, întărind amintirea."
+    },
+    "howToApply": {
+      "title": "Cum să o aplici",
+      "items": [
+        "<strong>Creează diagrame:</strong> Desenează o diagramă, o schemă sau o hartă mentală pentru a reprezenta vizual informația dintr-un text.",
+        "<strong>Caută infografice:</strong> Găsește rezumate vizuale ale subiectelor complexe.",
+        "<strong>Desenează în timp ce înveți:</strong> Fă schițe sau pictograme simple în notițe lângă conceptele importante.",
+        "<strong>Folosește video:</strong> Urmărește videoclipuri educaționale care combină narațiunea cu vizualuri relevante."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "Când studiază sistemul circulator uman, un student nu doar citește descrierile inimii, arterelor și venelor, ci și studiază și redesenează o diagramă detaliată a fluxului sanguin. Combinația text (verbal) + diagramă (vizual) îmbunătățește înțelegerea și reținerea."
+    },
+    "evidence": {
+      "title": "Dovezi Științifice",
+      "description": "Numeroase studii susțin teoria codificării duale. De exemplu, cercetările lui Mayer și Anderson au arătat că studenții care au învățat cu animații + narațiune au avut rezultate semnificativ mai bune decât cei care au avut doar narațiune sau doar animație."
+    }
+  },
+  "feynmanTechnique": {
+    "title": "Tehnica Feynman",
+    "principle": {
+      "title": "Principiu",
+      "description": "Numită după laureatul Nobel Richard Feynman, această tehnică este un model mental puternic pentru învățare. Ideea de bază este că, pentru a înțelege cu adevărat un concept, trebuie să-l poți explica în limbaj simplu și clar. Procesul de simplificare dezvăluie limitele cunoștințelor tale și scoate la iveală neînțelegerile."
+    },
+    "steps": {
+      "title": "Cei Patru Pași",
+      "step1": {
+        "title": "Alege un concept",
+        "description": "Alege un subiect pe care vrei să-l înveți și începe să-l studiezi. Citește materialul sursă și ia notițe."
+      },
+      "step2": {
+        "title": "Predă-l unui copil",
+        "description": "Scrie o explicație a conceptului pe o foaie albă ca și cum l-ai preda cuiva fără cunoștințe anterioare, precum unui copil. Folosește un limbaj simplu și evită jargonul."
+      },
+      "step3": {
+        "title": "Identifică lacunele",
+        "description": "Ori de câte ori te blochezi, folosești termeni complicați sau simți că explicația este șubredă, ai descoperit o lacună în înțelegere. Întoarce-te la materialul sursă pentru a-ți întări cunoștințele."
+      },
+      "step4": {
+        "title": "Revizuiește și simplifică",
+        "description": "Rafinează explicația. Citește-o cu voce tare. Dacă nu este clară sau sună confuz, reia. Folosește analogii și creează o narațiune cursivă până când înțelegerea ta este solidă."
+      }
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "Un student care încearcă să înțeleagă tehnologia blockchain ar scrie o explicație evitând jargonul tehnic precum „hash criptografic” sau „registru distribuit”. Ar putea în schimb să folosească analogia unui caiet public, partajat, pe care toată lumea îl poate vedea, dar nimeni nu-l poate șterge, fiecare intrare fiind legată de cea anterioară, pentru a explica conceptul simplu."
+    }
+  },
+  "pomodoroTechnique": {
+    "title": "Tehnica Pomodoro",
+    "principle": {
+      "title": "Principiu",
+      "description": "Dezvoltată de Francesco Cirillo, tehnica Pomodoro este o metodă de gestionare a timpului care folosește un cronometru pentru a împărți munca în intervale, de obicei de 25 de minute, separate de pauze scurte. Scopul este de a crea concentrare, de a reduce oboseala mentală și de a minimiza distragerile."
+    },
+    "steps": {
+      "title": "Cei Cinci Pași",
+      "items": [
+        "<strong>Alege o sarcină</strong> pe care vrei să o faci.",
+        "<strong>Setează un cronometru pentru 25 de minute.</strong> Acesta este un „Pomodoro”.",
+        "<strong>Lucrează la sarcină</strong> cu concentrare deplină până când sună cronometrul.",
+        "<strong>Fă o pauză scurtă</strong> (5 minute). Fă ceva relaxant departe de muncă.",
+        "După patru Pomodoro, <strong>fă o pauză mai lungă</strong> (15–30 minute)."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "Un student trebuie să scrie o lucrare de cercetare. Împarte sarcina mare în pași mai mici: „Găsește 5 surse.” Setează un cronometru de 25 de minute și se concentrează doar pe acea sarcină. Când sună cronometrul, ia o pauză de 5 minute pentru a se întinde și a bea apă. Repetă procesul, simțindu-se productiv și evitând epuizarea."
+    },
+    "whyItWorks": {
+      "title": "De ce funcționează",
+      "description": "Tehnica combate procrastinarea făcând mai ușor să începi o sarcină mică și cronometrată. De asemenea, îți antrenează creierul să se concentreze pentru perioade susținute și te face mai conștient de modul în care îți folosești timpul. Pauzele forțate sunt esențiale pentru menținerea energiei mentale în sesiuni lungi de studiu."
+    }
+  },
+  "cornellMethod": {
+    "title": "Metoda Cornell",
+    "principle": {
+      "title": "Principiu",
+      "description": "Metoda Cornell este un sistem de luare de notițe conceput pentru învățare activă și revizuire ușoară. Împarte pagina într-un mod specific, fiecare secțiune având un scop precis, încurajându-te să interacționezi cu materialul în timpul și după curs sau lectură."
+    },
+    "pageStructure": {
+      "title": "Cum să structurezi pagina",
+      "items": [
+        "<strong>Zonă Principală de Notițe (Dreapta):</strong> În timpul cursului sau citirii, ia notițele în această secțiune cea mai mare. Nu te preocupa de perfecțiune; notează ideile principale, exemplele și formulele.",
+        "<strong>Coloana de Indicii/Întrebări (Stânga):</strong> La scurt timp după sesiune, revizuiește notițele principale și extrage termeni-cheie, concepte sau potențiale întrebări de test. Scrie-le în coloana îngustă din stânga, aliniate cu notițele relevante.",
+        "<strong>Secțiunea Rezumat (Jos):</strong> La finalul sesiunii de notițe, scrie un rezumat de una-două propoziții al conținutului întregii pagini. Aceasta te forțează să procesezi și să sintetizezi informația."
+      ]
+    },
+    "example": {
+      "title": "Scenariu Exemplu",
+      "description": "Într-o oră de biologie despre mitoză, notițele principale ale studentului ar detalia fazele (Profază, Metafază etc.). Mai târziu, în coloana de Indicii, ar scrie întrebări precum „Ce se întâmplă în anafază?” sau termeni-cheie precum „Centromer”. Pentru a repeta, poate acoperi notițele principale și încerca să răspundă la întrebările din coloana de Indicii, practicând astfel rememorarea activă."
+    },
+    "whyItWorks": {
+      "title": "De ce funcționează",
+      "description": "Această metodă integrează învățarea activă direct în procesul de luare de notițe. Coloana de Indicii creează carduri de tip flash integrate pentru auto-testare (Rememorare Activă), iar Secțiunea de Rezumat te obligă să procesezi materialul la un nivel mai profund (Elaborare)."
+    }
+  }
+}

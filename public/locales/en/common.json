@@ -1,0 +1,268 @@
+{
+  "navigation": {
+    "title": "Learning Hub",
+    "close": "Close navigation"
+  },
+  "categories": {
+    "getting_started": "Getting Started",
+    "memory_recall": "Memory & Recall",
+    "understanding": "Understanding",
+    "focus_productivity": "Focus & Productivity",
+    "note_taking": "Note-Taking Strategies",
+    "application": "Applying Knowledge"
+  },
+  "techniques": {
+    "introduction": "Introduction",
+    "technique_finder": "Technique Finder",
+    "active_recall": "Active Recall",
+    "spaced_repetition": "Spaced Repetition",
+    "interleaving": "Interleaving",
+    "elaboration": "Elaboration",
+    "dual_coding": "Dual Coding",
+    "feynman_technique": "The Feynman Technique",
+    "pomodoro_technique": "Pomodoro Technique",
+    "cornell_method": "Cornell Method",
+    "mind_mapping": "Mind Mapping",
+    "self_testing": "Self-Testing",
+    "comparison": "Comparison"
+  },
+  "header": {
+    "title": "Master How to Learn",
+    "subtitle": "Discover research-backed methods and practical tips to boost memory, focus, and deep learning."
+  },
+  "introduction": {
+    "welcome": "Welcome to the Learning Hub",
+    "description1": "Most learners default to rereading or highlighting. These feel safe but lead to poor retention. Evidence shows active, effortful strategies like testing yourself and spacing reviews are far more effective. This hub translates research into step-by-step strategies anyone can use.",
+    "description2": "Each technique includes: what it is, why it works, how to use it in practice, examples, common mistakes, and recommended tools. This way you can apply them right away instead of guessing. Not sure where to start? Use the 'Technique Finder' quiz to get a recommendation tailored to your challenge.",
+    "forgettingCurve": {
+      "title": "The Forgetting Curve",
+      "description": "Hermann Ebbinghaus showed that without review, most people forget 70% of new information within 24 hours. The solution is strategic review: Active Recall and Spaced Repetition slow forgetting and strengthen long-term memory. This is why flashcards, quizzes, and testing yourself work better than rereading."
+    }
+  },
+  "techniqueFinder": {
+    "title": "Find Your Technique",
+    "description": "Answer two quick questions to get the study method best suited to your challenge.",
+    "questions": {
+      "q1": "What’s your biggest challenge right now?",
+      "q1_options": {
+        "memorization": "I need to memorize facts, formulas, or vocabulary.",
+        "understanding": "I need to understand complex concepts deeply.",
+        "longterm": "I need to retain knowledge long-term (e.g., exams).",
+        "application": "I need to apply knowledge to solve problems."
+      },
+      "q2": "How much time can you realistically study in one session?",
+      "q2_options": {
+        "short": "Short bursts (under 30 minutes).",
+        "long": "Longer focused sessions (1 hour+)."
+      }
+    },
+    "button": "Get My Study Strategy",
+    "recommendations": {
+      "memorization": {
+        "title": "Best for Memorization:",
+        "description": "<strong>Active Recall</strong> + <strong>Spaced Repetition</strong>. Instead of rereading, quiz yourself (flashcards, closed-book recall). Use an app like Anki or Quizlet to schedule reviews. The algorithm shows you cards just before you forget them, which is the sweet spot for retention."
+      },
+      "understanding": {
+        "title": "Best for Understanding:",
+        "description": "Combine <strong>Elaboration</strong> (ask 'why?' and connect new info to what you know) with <strong>The Feynman Technique</strong> (explain simply). Add <strong>Dual Coding</strong>: make diagrams or sketches to visualize abstract concepts."
+      },
+      "longterm": {
+        "title": "Best for Long-Term Retention:",
+        "description": "Use <strong>Spaced Repetition</strong> and <strong>Active Recall</strong> consistently. Add <strong>Interleaving</strong> (switch between related subjects) so your brain learns to distinguish and connect ideas instead of memorizing them in isolation."
+      },
+      "application": {
+        "title": "Best for Application & Problem-Solving:",
+        "description": "<strong>Interleaving</strong> helps by mixing different problem types, training you to identify which approach to use. Pair it with <strong>The Feynman Technique</strong> so you understand the underlying principles before applying them to new problems."
+      },
+      "default": "Select a challenge to get a personalized recommendation."
+    }
+  },
+  "comparison": {
+    "title": "Which Techniques Work Best?",
+    "description": "Not all study techniques are equal. Research (Dunlosky et al., 2013) found **Active Recall** and **Spaced Repetition** to be the most effective across subjects. Rereading and highlighting feel easier but create an illusion of mastery. Combining multiple high-utility strategies usually works best.",
+    "footnote": "Source: Dunlosky, J. et al. (2013). 'Improving Students’ Learning with Effective Learning Techniques.'"
+  },
+  "techniqueDetails": {
+    "active_recall": {
+      "title": "Active Recall",
+      "why": "Recalling information strengthens memory pathways. It turns learning into an active process instead of passive exposure.",
+      "how": [
+        "After studying, close the material and write down what you remember.",
+        "Use flashcards (apps like Anki, Quizlet, or even sticky notes).",
+        "Do past exam questions or make your own quizzes.",
+        "Try 'brain dumps'—at the end of a study session, write everything you know on the topic."
+      ],
+      "examples": [
+        "Medical students quizzing themselves on anatomy terms instead of rereading notes.",
+        "Language learners practicing vocabulary with flashcards and self-testing."
+      ],
+      "common_mistakes": [
+        "Rereading and mistaking it for recall.",
+        "Using recognition (multiple choice) instead of active recall (open-ended)."
+      ],
+      "tools": ["Anki", "Quizlet", "RemNote", "Brainscape"]
+    },
+    "spaced_repetition": {
+      "title": "Spaced Repetition",
+      "why": "Spacing reviews forces your brain to retrieve information just before forgetting, strengthening memory with less total study time.",
+      "how": [
+        "Use an app to schedule reviews (1 day, 3 days, 1 week, 2 weeks, etc.).",
+        "Mix subjects during review sessions.",
+        "Adjust spacing based on difficulty—review hard material more often."
+      ],
+      "examples": [
+        "Using Anki to prepare for medical licensing exams (USMLE).",
+        "Reviewing foreign language vocabulary daily, then weekly, then monthly."
+      ],
+      "common_mistakes": [
+        "Reviewing everything every day (inefficient).",
+        "Quitting too early—consistency matters more than perfection."
+      ],
+      "tools": ["Anki", "SuperMemo", "Quizlet"]
+    },
+    "interleaving": {
+      "title": "Interleaving",
+      "why": "Mixing problem types or subjects improves your ability to recognize when and how to apply knowledge.",
+      "how": [
+        "Instead of solving 20 identical problems, mix 5 different types in one set.",
+        "Study two related topics (e.g., algebra & geometry) in the same session."
+      ],
+      "examples": [
+        "Math students alternating between fractions, percentages, and ratios.",
+        "Musicians practicing different pieces instead of repeating one song."
+      ],
+      "common_mistakes": [
+        "Confusing interleaving with multitasking—finish one set before switching.",
+        "Switching too often and not practicing enough depth."
+      ]
+    },
+    "elaboration": {
+      "title": "Elaboration",
+      "why": "Asking 'why' and connecting to existing knowledge deepens understanding and builds stronger mental models.",
+      "how": [
+        "After reading a paragraph, ask: 'Why does this make sense? How does it connect?'",
+        "Relate concepts to real-world examples you care about.",
+        "Teach a peer how the concept works and why."
+      ],
+      "examples": [
+        "Connecting the concept of supply & demand to concert ticket pricing.",
+        "Linking biological processes to personal health examples."
+      ],
+      "common_mistakes": [
+        "Summarizing without adding personal connections.",
+        "Copying examples instead of generating your own."
+      ]
+    },
+    "dual_coding": {
+      "title": "Dual Coding",
+      "why": "Combining visuals with text activates multiple memory systems, making recall stronger.",
+      "how": [
+        "Turn lists into diagrams, flowcharts, or mind maps.",
+        "Pair each vocabulary word with an image.",
+        "Use timelines to represent historical events."
+      ],
+      "examples": [
+        "Drawing a flowchart of the water cycle instead of only reading notes.",
+        "Sketching the digestive system while studying biology."
+      ],
+      "common_mistakes": [
+        "Decorating notes without adding meaningful visuals.",
+        "Copying diagrams without making your own."
+      ],
+      "tools": ["Lucidchart", "Miro", "Notion Diagrams"]
+    },
+    "feynman_technique": {
+      "title": "The Feynman Technique",
+      "why": "Explaining in simple terms shows if you truly understand or if you have gaps.",
+      "how": [
+        "Choose a concept and write an explanation as if teaching a beginner.",
+        "Find areas where you struggle to simplify—that’s where your gaps are.",
+        "Review the material, then refine your explanation."
+      ],
+      "examples": [
+        "Explaining Newton’s laws as if to a 10-year-old.",
+        "Describing how photosynthesis works to a friend with no science background."
+      ],
+      "common_mistakes": [
+        "Using jargon instead of plain language.",
+        "Stopping at the first attempt instead of refining."
+      ]
+    },
+    "pomodoro_technique": {
+      "title": "Pomodoro Technique",
+      "why": "Focused bursts prevent fatigue and keep motivation high.",
+      "how": [
+        "Set a 25-minute timer and focus deeply.",
+        "Take a 5-minute break (stretch, drink water).",
+        "After 4 cycles, take a 20–30 min break."
+      ],
+      "examples": [
+        "Using Pomofocus to stay on track during essay writing.",
+        "Forest app to avoid phone distractions."
+      ],
+      "common_mistakes": [
+        "Using breaks for distractions that are hard to stop (e.g., social media).",
+        "Ignoring longer breaks, leading to burnout."
+      ],
+      "tools": ["Forest", "Pomofocus", "Tide"]
+    },
+    "cornell_method": {
+      "title": "Cornell Note-Taking",
+      "why": "Structure forces reflection and easier review.",
+      "how": [
+        "Divide page into Notes, Cues, and Summary.",
+        "During lecture: write main ideas in Notes.",
+        "After class: fill Cue column with questions/keywords.",
+        "Write a summary in your own words at the bottom."
+      ],
+      "examples": [
+        "Summarizing a biology lecture into 5 key points in the summary section.",
+        "Turning notes into review questions in the cue column."
+      ],
+      "common_mistakes": [
+        "Skipping the summary section.",
+        "Copying slides verbatim without processing."
+      ]
+    },
+    "mind_mapping": {
+      "title": "Mind Mapping",
+      "why": "Shows relationships and hierarchy between ideas.",
+      "how": [
+        "Write central idea in the middle.",
+        "Branch out into subtopics.",
+        "Use colors, arrows, and icons to show relationships."
+      ],
+      "examples": [
+        "Creating a mind map of world history events by century.",
+        "Breaking down a textbook chapter into visual branches."
+      ],
+      "common_mistakes": [
+        "Overcomplicating with too many branches.",
+        "Making it decorative without meaningful connections."
+      ],
+      "tools": ["XMind", "MindMeister", "Coggle"]
+    },
+    "self_testing": {
+      "title": "Self-Testing",
+      "why": "Practice tests improve exam performance more than rereading.",
+      "how": [
+        "Do past exam papers or online quizzes.",
+        "Make your own practice questions.",
+        "After each test, review mistakes and focus on weak spots."
+      ],
+      "examples": [
+        "MCAT students practicing with timed question banks.",
+        "Language learners using mock speaking tests."
+      ],
+      "common_mistakes": [
+        "Checking answers immediately instead of recalling first.",
+        "Not analyzing errors after tests."
+      ]
+    }
+  },
+  "language": {
+    "select": "Select Language",
+    "english": "English",
+    "romanian": "Română"
+  }
+}

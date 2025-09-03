@@ -1,0 +1,268 @@
+{
+  "navigation": {
+    "title": "Learning Hub",
+    "close": "Închide navigarea"
+  },
+  "categories": {
+    "getting_started": "Primii pași",
+    "memory_recall": "Memorie & Reamintire",
+    "understanding": "Înțelegere",
+    "focus_productivity": "Concentrare & Productivitate",
+    "note_taking": "Strategii de Luare a Notițelor",
+    "application": "Aplicarea Cunoștințelor"
+  },
+  "techniques": {
+    "introduction": "Introducere",
+    "technique_finder": "Găsitor de Tehnici",
+    "active_recall": "Reamintire Activă",
+    "spaced_repetition": "Repetiție Spațiată",
+    "interleaving": "Alternare (Interleaving)",
+    "elaboration": "Elaborare",
+    "dual_coding": "Codificare Dublă",
+    "feynman_technique": "Tehnica Feynman",
+    "pomodoro_technique": "Tehnica Pomodoro",
+    "cornell_method": "Metoda Cornell",
+    "mind_mapping": "Hărți Conceptuale",
+    "self_testing": "Auto-Testare",
+    "comparison": "Comparație"
+  },
+  "header": {
+    "title": "Stăpânește Arta Învățării",
+    "subtitle": "Descoperă metode susținute de cercetare și sfaturi practice pentru a-ți îmbunătăți memoria, concentrarea și învățarea profundă."
+  },
+  "introduction": {
+    "welcome": "Bun venit la Learning Hub",
+    "description1": "Majoritatea cursanților se limitează la recitire sau subliniere. Acestea par sigure, dar duc la o retenție slabă. Dovezile arată că strategiile active, care necesită efort – precum auto-testarea și repetarea spațiată – sunt mult mai eficiente. Acest hub transformă cercetările în strategii pas cu pas pe care oricine le poate folosi.",
+    "description2": "Fiecare tehnică include: ce este, de ce funcționează, cum se aplică practic, exemple, greșeli comune și instrumente recomandate. Astfel le poți aplica imediat, fără să ghicești. Nu știi de unde să începi? Folosește chestionarul „Găsitor de Tehnici” pentru o recomandare adaptată provocării tale.",
+    "forgettingCurve": {
+      "title": "Curba Uitării",
+      "description": "Hermann Ebbinghaus a arătat că, fără revizuire, majoritatea oamenilor uită 70% din informațiile noi în 24 de ore. Soluția este revizuirea strategică: Reamintirea Activă și Repetiția Spațiată încetinesc uitarea și întăresc memoria pe termen lung. De aceea fișele, chestionarele și auto-testarea funcționează mai bine decât recitirea."
+    }
+  },
+  "techniqueFinder": {
+    "title": "Găsește-ți Tehnica",
+    "description": "Răspunde la două întrebări rapide pentru a descoperi metoda de studiu potrivită pentru tine.",
+    "questions": {
+      "q1": "Care este cea mai mare provocare a ta acum?",
+      "q1_options": {
+        "memorization": "Trebuie să memorez fapte, formule sau vocabular.",
+        "understanding": "Trebuie să înțeleg concepte complexe în profunzime.",
+        "longterm": "Trebuie să rețin informații pe termen lung (ex. examene).",
+        "application": "Trebuie să aplic cunoștințele pentru a rezolva probleme."
+      },
+      "q2": "Cât timp poți învăța realist într-o singură sesiune?",
+      "q2_options": {
+        "short": "Perioade scurte (sub 30 de minute).",
+        "long": "Sesiuni mai lungi și concentrate (1 oră+)."
+      }
+    },
+    "button": "Obține Strategia Mea de Studiu",
+    "recommendations": {
+      "memorization": {
+        "title": "Cel mai bun pentru Memorare:",
+        "description": "<strong>Reamintire Activă</strong> + <strong>Repetiție Spațiată</strong>. În loc de recitire, testează-te (fișe, reamintire fără caiet). Folosește o aplicație precum Anki sau Quizlet pentru a programa revizuirile. Algoritmul îți arată cardurile exact înainte să le uiți – momentul optim pentru retenție."
+      },
+      "understanding": {
+        "title": "Cel mai bun pentru Înțelegere:",
+        "description": "Combină <strong>Elaborarea</strong> (pune întrebări „de ce?” și leagă informația nouă de ce știi deja) cu <strong>Tehnica Feynman</strong> (explică simplu). Adaugă <strong>Codificarea Dublă</strong>: creează diagrame sau schițe pentru a vizualiza concepte abstracte."
+      },
+      "longterm": {
+        "title": "Cel mai bun pentru Retenția pe Termen Lung:",
+        "description": "Folosește <strong>Repetiția Spațiată</strong> și <strong>Reamintirea Activă</strong> în mod consecvent. Adaugă <strong>Alternarea</strong> (comută între subiecte conexe) pentru ca mintea ta să învețe să distingă și să conecteze idei, nu doar să le memoreze izolat."
+      },
+      "application": {
+        "title": "Cel mai bun pentru Aplicare & Rezolvarea Problemelor:",
+        "description": "<strong>Alternarea</strong> ajută prin combinarea diferitelor tipuri de probleme, antrenându-te să recunoști metoda potrivită. Combin-o cu <strong>Tehnica Feynman</strong> pentru a înțelege principiile de bază înainte de a le aplica în situații noi."
+      },
+      "default": "Selectează o provocare pentru o recomandare personalizată."
+    }
+  },
+  "comparison": {
+    "title": "Care Tehnici Funcționează Cel Mai Bine?",
+    "description": "Nu toate metodele de studiu sunt egale. Cercetările (Dunlosky et al., 2013) au arătat că **Reamintirea Activă** și **Repetiția Spațiată** sunt cele mai eficiente, indiferent de materie. Recitirea și sublinierea par mai ușoare, dar creează doar o iluzie de stăpânire. Combinarea mai multor strategii de mare utilitate dă de obicei cele mai bune rezultate.",
+    "footnote": "Sursă: Dunlosky, J. et al. (2013). „Improving Students’ Learning with Effective Learning Techniques.”"
+  },
+  "techniqueDetails": {
+    "active_recall": {
+      "title": "Reamintire Activă",
+      "why": "Reamintirea informațiilor întărește căile memoriei. Transformă învățarea dintr-un proces pasiv într-unul activ.",
+      "how": [
+        "După ce studiezi, închide materialul și notează ce îți amintești.",
+        "Folosește fișe (Anki, Quizlet sau chiar post-it-uri).",
+        "Rezolvă examene vechi sau creează propriile teste.",
+        "Încearcă „brain dumps” – la finalul unei sesiuni, scrie tot ce știi despre subiect."
+      ],
+      "examples": [
+        "Studenții la medicină care se auto-testează pe termeni de anatomie în loc să recitească notițele.",
+        "Învățătorii de limbi străine care exersează vocabularul prin fișe și auto-testare."
+      ],
+      "common_mistakes": [
+        "Recitirea și confuzia ei cu reamintirea.",
+        "Folosirea recunoașterii (alegere multiplă) în loc de reamintire activă (răspuns deschis)."
+      ],
+      "tools": ["Anki", "Quizlet", "RemNote", "Brainscape"]
+    },
+    "spaced_repetition": {
+      "title": "Repetiție Spațiată",
+      "why": "Revizuirile distanțate obligă creierul să recupereze informația exact înainte să o uite, întărind memoria cu mai puțin timp total de studiu.",
+      "how": [
+        "Folosește o aplicație pentru a programa revizuirile (1 zi, 3 zile, 1 săptămână, 2 săptămâni etc.).",
+        "Amestecă materiile în sesiunile de revizuire.",
+        "Ajustează intervalele în funcție de dificultate – revizuiește mai des materialele dificile."
+      ],
+      "examples": [
+        "Folosirea Anki pentru a pregăti examene medicale (USMLE).",
+        "Revizuirea vocabularului străin zilnic, apoi săptămânal, apoi lunar."
+      ],
+      "common_mistakes": [
+        "Revizuirea zilnică a tuturor materialelor (ineficient).",
+        "Renunțarea prea devreme – consecvența contează mai mult decât perfecțiunea."
+      ],
+      "tools": ["Anki", "SuperMemo", "Quizlet"]
+    },
+    "interleaving": {
+      "title": "Alternare (Interleaving)",
+      "why": "Amestecarea tipurilor de probleme sau a materiilor îți îmbunătățește abilitatea de a recunoaște când și cum să aplici cunoștințele.",
+      "how": [
+        "În loc să rezolvi 20 de probleme identice, amestecă 5 tipuri diferite într-un set.",
+        "Studiază două subiecte conexe (ex. algebră & geometrie) în aceeași sesiune."
+      ],
+      "examples": [
+        "Elevii la matematică care alternează fracții, procente și rapoarte.",
+        "Muzicienii care exersează piese diferite în loc să repete aceeași melodie."
+      ],
+      "common_mistakes": [
+        "Confundarea alternării cu multitasking – finalizează un set înainte să treci la altul.",
+        "Schimbarea prea frecventă fără a exersa suficient în profunzime."
+      ]
+    },
+    "elaboration": {
+      "title": "Elaborare",
+      "why": "Întrebările „de ce” și conectarea la cunoștințele existente aprofundează înțelegerea și construiesc modele mentale mai solide.",
+      "how": [
+        "După ce citești un paragraf, întreabă: „De ce are sens? Cum se leagă?”",
+        "Leagă conceptele de exemple reale care te interesează.",
+        "Explică unui coleg cum funcționează conceptul și de ce."
+      ],
+      "examples": [
+        "Conectarea conceptului cerere & ofertă la prețurile biletelor de concert.",
+        "Legarea proceselor biologice de exemple din sănătatea personală."
+      ],
+      "common_mistakes": [
+        "Rezumatul fără conexiuni personale.",
+        "Copierea exemplelor în loc să generezi altele proprii."
+      ]
+    },
+    "dual_coding": {
+      "title": "Codificare Dublă",
+      "why": "Combinarea vizualului cu textul activează mai multe sisteme de memorie, făcând reamintirea mai puternică.",
+      "how": [
+        "Transformă listele în diagrame, scheme sau hărți conceptuale.",
+        "Asociază fiecare cuvânt de vocabular cu o imagine.",
+        "Folosește cronologii pentru a reprezenta evenimente istorice."
+      ],
+      "examples": [
+        "Desenarea unei scheme a ciclului apei în loc să citești doar notițele.",
+        "Schițarea sistemului digestiv în timpul studiului biologiei."
+      ],
+      "common_mistakes": [
+        "Decorarea notițelor fără adăugarea de vizualuri semnificative.",
+        "Copierea diagramelor fără a crea propriile versiuni."
+      ],
+      "tools": ["Lucidchart", "Miro", "Notion Diagrams"]
+    },
+    "feynman_technique": {
+      "title": "Tehnica Feynman",
+      "why": "Explicarea în termeni simpli arată dacă înțelegi cu adevărat sau dacă ai lacune.",
+      "how": [
+        "Alege un concept și scrie o explicație ca pentru un începător.",
+        "Identifică zonele în care nu poți simplifica – acolo sunt golurile tale.",
+        "Revezi materialul și rafinează explicația."
+      ],
+      "examples": [
+        "Explicarea legilor lui Newton ca pentru un copil de 10 ani.",
+        "Descrierea fotosintezei unui prieten fără cunoștințe de știință."
+      ],
+      "common_mistakes": [
+        "Folosirea jargonului în locul limbajului simplu.",
+        "Oprirea la prima încercare, fără rafinare."
+      ]
+    },
+    "pomodoro_technique": {
+      "title": "Tehnica Pomodoro",
+      "why": "Perioadele concentrate previn oboseala și mențin motivația ridicată.",
+      "how": [
+        "Setează un cronometru de 25 de minute și concentrează-te intens.",
+        "Ia o pauză de 5 minute (întinde-te, bea apă).",
+        "După 4 cicluri, ia o pauză de 20–30 de minute."
+      ],
+      "examples": [
+        "Folosirea Pomofocus pentru a rămâne concentrat la scrierea unui eseu.",
+        "Aplicația Forest pentru a evita distragerile de pe telefon."
+      ],
+      "common_mistakes": [
+        "Folosirea pauzelor pentru distrageri greu de oprit (ex. rețele sociale).",
+        "Ignorarea pauzelor mai lungi, ceea ce duce la epuizare."
+      ],
+      "tools": ["Forest", "Pomofocus", "Tide"]
+    },
+    "cornell_method": {
+      "title": "Metoda Cornell pentru Notițe",
+      "why": "Structura te obligă să reflectezi și să revizuiești mai ușor.",
+      "how": [
+        "Împarte pagina în Notițe, Indicii și Rezumat.",
+        "În timpul cursului: notează ideile principale în secțiunea de Notițe.",
+        "După curs: completează coloana de Indicii cu întrebări/cuvinte-cheie.",
+        "Scrie un rezumat cu propriile cuvinte în partea de jos."
+      ],
+      "examples": [
+        "Rezumatul unui curs de biologie în 5 puncte-cheie la secțiunea de rezumat.",
+        "Transformarea notițelor în întrebări de revizuire în coloana de indicii."
+      ],
+      "common_mistakes": [
+        "Omiterea secțiunii de rezumat.",
+        "Copierea slide-urilor mot-a-mot, fără prelucrare."
+      ]
+    },
+    "mind_mapping": {
+      "title": "Hărți Conceptuale",
+      "why": "Arată relațiile și ierarhia dintre idei.",
+      "how": [
+        "Scrie ideea centrală în mijloc.",
+        "Ramifică în subteme.",
+        "Folosește culori, săgeți și icoane pentru a arăta conexiunile."
+      ],
+      "examples": [
+        "Crearea unei hărți conceptuale a istoriei lumii pe secole.",
+        "Împărțirea unui capitol de manual în ramuri vizuale."
+      ],
+      "common_mistakes": [
+        "Complicarea excesivă cu prea multe ramuri.",
+        "Decorarea fără conexiuni semnificative."
+      ],
+      "tools": ["XMind", "MindMeister", "Coggle"]
+    },
+    "self_testing": {
+      "title": "Auto-Testare",
+      "why": "Testele de practică îmbunătățesc performanța la examene mai mult decât recitirea.",
+      "how": [
+        "Rezolvă examene vechi sau chestionare online.",
+        "Creează-ți propriile întrebări de practică.",
+        "După fiecare test, analizează greșelile și concentrează-te pe punctele slabe."
+      ],
+      "examples": [
+        "Studenții care se pregătesc pentru MCAT cu bănci de întrebări cronometrate.",
+        "Învățătorii de limbi străine care folosesc simulări de teste orale."
+      ],
+      "common_mistakes": [
+        "Verificarea răspunsurilor imediat, fără reamintire mai întâi.",
+        "Neanalizarea erorilor după teste."
+      ]
+    }
+  },
+  "language": {
+    "select": "Selectează Limba",
+    "english": "Engleză",
+    "romanian": "Română"
+  }
+}
