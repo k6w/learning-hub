@@ -7,6 +7,7 @@ import enLessons from '../../public/locales/en/lessons.json';
 import roLessons from '../../public/locales/ro/lessons.json';
 import enCommon from '../../public/locales/en/common.json';
 import roCommon from '../../public/locales/ro/common.json';
+import { LessonData, CommonData, TechniqueDetail } from '../types/learning';
 
 interface LessonContentProps {
   contentKey: string;
@@ -20,8 +21,8 @@ export default function LessonContent({ contentKey }: LessonContentProps) {
     const currentLang = i18n.language || 'en';
 
     // Get the lessons data based on current language
-    const lessonsData = currentLang === 'ro' ? roLessons : enLessons;
-    const commonData = currentLang === 'ro' ? roCommon : enCommon;
+    const lessonsData: LessonData = currentLang === 'ro' ? roLessons : enLessons;
+    const commonData: CommonData = currentLang === 'ro' ? roCommon : enCommon;
 
     // Map lessonKey to common key for techniqueDetails
     const keyMapping: { [key: string]: string } = {
@@ -39,11 +40,12 @@ export default function LessonContent({ contentKey }: LessonContentProps) {
 
     const commonKey = keyMapping[lessonKey];
 
-    let lesson = (lessonsData as any)[lessonKey];
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    let lesson: any = lessonsData[lessonKey];
     let isFromCommon = false;
 
-    if (!lesson && commonKey && (commonData as any).techniqueDetails && (commonData as any).techniqueDetails[commonKey]) {
-      lesson = (commonData as any).techniqueDetails[commonKey];
+    if (!lesson && commonKey && commonData.techniqueDetails && commonData.techniqueDetails[commonKey]) {
+      lesson = commonData.techniqueDetails[commonKey];
       isFromCommon = true;
     }
 

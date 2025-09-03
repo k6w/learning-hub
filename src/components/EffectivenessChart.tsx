@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect } from 'react';
 import { useTheme } from 'next-themes';
 import {
   Chart as ChartJS,
@@ -10,6 +10,7 @@ import {
   Title,
   Tooltip,
   Legend,
+  TooltipItem,
 } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
 
@@ -67,7 +68,7 @@ export default function EffectivenessChart({ containerId = 'effectiveness-chart-
       },
       tooltip: {
         callbacks: {
-          label: function(context: any) {
+          label: function(context: TooltipItem<'bar'>) {
             let label = context.dataset.label || '';
             if (label) {
               label += ': ';
